@@ -15,3 +15,11 @@ To use the webpage you can scroll to view the items contained in the webpage, cl
 ## Credits
 
 N/A
+
+## Application Info
+
+Link to the application:
+https://aliteralwaffle.github.io/My-Portfolio/
+
+Image of the application attached:
+![PortfolioREADME](https://user-images.githubusercontent.com/43278458/199866539-ecf1aaa9-a83e-4ac4-a50d-2ff5c0c07691.JPG)
